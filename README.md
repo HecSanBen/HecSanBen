@@ -11,6 +11,16 @@
 - ✈ Estuve en Maribor, Eslovenia, como estudiante Erasmus
 - 🧠 Tengo conocimientos sobre UX/UI y Lean Software Development
 - 🌱 Actualmente estoy aprendiendo C++
+
+
+<p align="center">
+  <a href="www.linkedin.com/in/héctor-antonio-santana-beneyto-9a540318a">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN--blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:hec_san_ben_@hotmail.com">
+    <img alt="Hotmail" src="https://img.shields.io/badge/Gmail--blue?style=flat&logo=gmail">
+  </a>
+</p>
 <!--
 **HecSanBen/HecSanBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
