@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="www.linkedin.com/in/héctor-antonio-santana-beneyto-9a540318a">
+  <a href="www.linkedin.com/in/hector-antonio-santana-beneyto">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN--blue?style=flat&logo=linkedin">
   </a>
   <a href="mailto:hec_san_ben_@hotmail.com">
